@@ -11,7 +11,9 @@
 
    - [Настройка](https://github.com/damh66/cisco/blob/main/etherchannel/setup.md)
   
+3. DHCPv4
 
+   - [Настройка](https://github.com/damh66/cisco/blob/main/dhcpv4/setup.md)
 
 
 
