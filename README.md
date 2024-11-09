@@ -1,4 +1,4 @@
-# Cisco notes
+# Cisco
 
 ### CCNA
 
