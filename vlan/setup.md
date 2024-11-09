@@ -9,7 +9,7 @@ vlan 10
 
 Назначение порта **VLAN**:
 ```
-interface fa0/6
+interface FastEthernet0/6
   switchport mode access
   switchport access vlan 10
 ```
@@ -23,7 +23,7 @@ vlan 20
 vlan 150
   name voice
 !
-interface fa0/18
+interface FastEthernet0/18
   switchport mode access
   switchport access vlan 20
   mls qos trust cos
