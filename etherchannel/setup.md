@@ -81,3 +81,15 @@ interface port-channel 1
   switchport trunk encapsulation dot1q
   switchport mode trunk
 ```
+
+<br/>
+<br/>
+
+### Команды проверки EtherChannel
+
+| Команда | Описание |
+|----------|---------|
+| **show interfaces port-channel** *number* | Отображает общий статус интерфейса агрегированного канала |
+| **show etherchannel summary** | Отображение суммарной информации EtherChannel |
+| **show etherchannel port-channel** | Отображение сведений о конкретной интерфейсе агрегированного канала |
+| **show interfaces etherchannel** | Отображение данных о роли физического интерфейса в работе EtherChannel |
